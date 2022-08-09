@@ -83,6 +83,7 @@ matplotlib
 pandas
 numpy
 scikit-learn
+scipy
 ```
 
 ## ✍️ نویسندگان <a name = "authors"></a>
